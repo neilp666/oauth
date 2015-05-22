@@ -14,5 +14,6 @@ gem 'spring',        group: :development
 gem 'omniauth-facebook'
 gem 'omniauth-github'
 gem 'omniauth-twitter'
+gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
 
